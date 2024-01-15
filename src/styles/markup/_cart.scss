@@ -1,0 +1,48 @@
+.cart-header {
+    background-color: $background-blue;
+    padding: 40px 0;
+
+    &__container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__title {
+        margin: 0;
+        padding: 0;
+    }
+
+    &__payment-btn {
+        cursor: pointer;
+        background-color: transparent;
+        border: none;
+        padding: 5px;
+    }
+}
+
+.cart {
+    padding: 40px 0;
+
+    &__title {
+        margin-bottom: 20px;
+    }
+
+    &__list {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 20px;
+        list-style: none;
+    }
+
+    &__item {
+        padding: 10px;
+        margin-right: 20px;
+        margin-bottom: 20px;
+        border: 1px solid $background-blue;
+        border-radius: 5px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+}

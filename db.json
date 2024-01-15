@@ -1,0 +1,230 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "iPhone",
+      "model": "12 Pro",
+      "image": "assets/images/iphone-12-pro.jpg",
+      "price": 999,
+      "color": "Silver"
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy S21",
+      "image": "https://avatars.mds.yandex.net/get-mpic/7728649/img_id5036761090167223589.png/orig",
+      "price": 799,
+      "color": "Phantom Black"
+    },
+    {
+      "id": 3,
+      "brand": "Google",
+      "model": "Pixel 5",
+      "image": "https://moonservice.ru/images/phones/Google/Google-Pixel-5-min.jpg",
+      "price": 699,
+      "color": "Just Black"
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "model": "9 Pro",
+      "image": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/89YAAOSwyS5hhtMY/$_57.JPG?set_id=8800005007",
+      "price": 899,
+      "color": "Morning Mist"
+    },
+    {
+      "id": 5,
+      "brand": "Xiaomi",
+      "model": "Mi 11",
+      "image": "https://wishmaster.me/upload/iblock/c52/c52c3c8ee076e4fd4f313ddcaa60e705.jpg",
+      "price": 799,
+      "color": "Midnight Gray"
+    },
+    {
+      "id": 6,
+      "brand": "Huawei",
+      "model": "P40 Pro",
+      "image": "https://tehnoteca.ru/img/1772/1771021/huawei_p40_pro_256gb_20.jpg",
+      "price": 899,
+      "color": "Ice White"
+    },
+    {
+      "id": 7,
+      "brand": "Sony",
+      "model": "Xperia 5 II",
+      "image": "https://xperiablog.net/wp-content/uploads/2020/11/NTT-docomo-Purple-Xperia-5-II_8.jpg",
+      "price": 999,
+      "color": "Blue"
+    },
+    {
+      "id": 8,
+      "brand": "LG",
+      "model": "Velvet",
+      "image": "https://www.hartware.de/wp-content/uploads/2020/06/LG-VELVET-Aurora-Weiß.jpg",
+      "price": 699,
+      "color": "Aurora White"
+    },
+    {
+      "id": 9,
+      "brand": "Motorola",
+      "model": "Edge+",
+      "image": "https://daboom.ru/wp-content/uploads/2021/12/motorola-edge-plus-5g-12_256-gb-thunder-grey-1570x2048.jpg",
+      "price": 699,
+      "color": "Thunder Grey"
+    },
+    {
+      "id": 10,
+      "brand": "Oppo",
+      "model": "Find X3 Pro",
+      "image": "https://www.91-img.com/gallery_images_uploads/3/8/38190cf49a5f261bcd846f18fee87dd9e9df0b6b.jpg?tr=q-100",
+      "price": 1099,
+      "color": "Gloss Black"
+    },
+    {
+      "id": 11,
+      "brand": "Nokia",
+      "model": "8.3 5G",
+      "image": "https://i.ebayimg.com/00/s/NjcwWDY4MA==/z/hwgAAOSwO7NfbGOw/$_57.JPG?set_id=8800005007",
+      "price": 599,
+      "color": "Polar Night"
+    },
+    {
+      "id": 12,
+      "brand": "Asus",
+      "model": "ROG Phone 5",
+      "image": "https://ae04.alicdn.com/kf/U86bde3c03f4b438e9c7eba92abb6b5daj.jpg",
+      "price": 999,
+      "color": "Phantom Black"
+    },
+    {
+      "id": 13,
+      "brand": "BlackBerry",
+      "model": "KEY2",
+      "image": "https://img.ispace.cz/max/MTOSBBKEY2050_max_0.jpg",
+      "price": 799,
+      "color": "Silver"
+    },
+    {
+      "id": 14,
+      "brand": "Realme",
+      "model": "GT Neo 2",
+      "image": "https://cdn1.ozone.ru/s3/multimedia-8/6531400004.jpg",
+      "price": 449,
+      "color": "Luminous Black"
+    },
+    {
+      "id": 15,
+      "brand": "Vivo",
+      "model": "X60 Pro",
+      "image": "https://media.pricebook.co.id/images/product/L/95665_L_1.jpg",
+      "price": 899,
+      "color": "Midnight Black"
+    },
+    {
+      "id": 16,
+      "brand": "Lenovo",
+      "model": "Legion Phone Duel 2",
+      "image": "https://mimelon.com/uploads/catalog/Product/61Wf-E+KPHL__AC_SL1500_.jpg",
+      "price": 799,
+      "color": "Titanium White"
+    },
+    {
+      "id": 17,
+      "brand": "ZTE",
+      "model": "Axon 30 Ultra",
+      "image": "https://ae01.alicdn.com/kf/H167b605fb983461a9418d5ad9f94fec8N.jpg",
+      "price": 749,
+      "color": "Black"
+    },
+    {
+      "id": 18,
+      "brand": "Honor",
+      "model": "50",
+      "image": "https://irichonline.ru/wp-content/uploads/2023/02/30059415bb.jpg",
+      "price": 599,
+      "color": "Frost Crystal"
+    },
+    {
+      "id": 19,
+      "brand": "Infinix",
+      "model": "Zero X Pro",
+      "image": "https://ph-test-11.slatic.net/p/100fbaf042097940401445e4d7163253.jpg",
+      "price": 449,
+      "color": "Silver Diamond"
+    },
+    {
+      "id": 20,
+      "brand": "Techno",
+      "model": "Phantom X",
+      "image": "https://cdn1.ozone.ru/s3/multimedia-6/6440236626.jpg",
+      "price": 399,
+      "color": "Monet Summer"
+    }
+  ],
+  "cart": [
+    {
+      "brand": "Techno",
+      "model": "Phantom X",
+      "image": "https://cdn1.ozone.ru/s3/multimedia-6/6440236626.jpg",
+      "price": 399,
+      "color": "Monet Summer",
+      "id": 1
+    },
+    {
+      "brand": "Infinix",
+      "model": "Zero X Pro",
+      "image": "https://ph-test-11.slatic.net/p/100fbaf042097940401445e4d7163253.jpg",
+      "price": 449,
+      "color": "Silver Diamond",
+      "id": 2
+    },
+    {
+      "brand": "Honor",
+      "model": "50",
+      "image": "https://irichonline.ru/wp-content/uploads/2023/02/30059415bb.jpg",
+      "price": 599,
+      "color": "Frost Crystal",
+      "id": 3
+    },
+    {
+      "brand": "ZTE",
+      "model": "Axon 30 Ultra",
+      "image": "https://ae01.alicdn.com/kf/H167b605fb983461a9418d5ad9f94fec8N.jpg",
+      "price": 749,
+      "color": "Black",
+      "id": 4
+    },
+    {
+      "brand": "Lenovo",
+      "model": "Legion Phone Duel 2",
+      "image": "https://mimelon.com/uploads/catalog/Product/61Wf-E+KPHL__AC_SL1500_.jpg",
+      "price": 799,
+      "color": "Titanium White",
+      "id": 5
+    },
+    {
+      "brand": "Vivo",
+      "model": "X60 Pro",
+      "image": "https://media.pricebook.co.id/images/product/L/95665_L_1.jpg",
+      "price": 899,
+      "color": "Midnight Black",
+      "id": 6
+    },
+    {
+      "brand": "Realme",
+      "model": "GT Neo 2",
+      "image": "https://cdn1.ozone.ru/s3/multimedia-8/6531400004.jpg",
+      "price": 449,
+      "color": "Luminous Black",
+      "id": 7
+    },
+    {
+      "brand": "BlackBerry",
+      "model": "KEY2",
+      "image": "https://img.ispace.cz/max/MTOSBBKEY2050_max_0.jpg",
+      "price": 799,
+      "color": "Silver",
+      "id": 8
+    }
+  ]
+}

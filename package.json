@@ -1,0 +1,22 @@
+{
+  "name": "e-commerce",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start:server": "json-server --watch db.json",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "normalize.css": "^8.0.1",
+    "redux": "^4.2.1",
+    "sass": "^1.69.4",
+    "sass-loader": "^13.3.3"
+  }
+}

@@ -1,0 +1,57 @@
+.products {
+    padding: 40px 0;
+
+    &__title {
+        font-weight: 500;
+        margin-bottom: 40px;
+    }
+
+    &__list {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 20px;
+        list-style: none;
+        margin-bottom: 20px;
+    }
+
+    &__card {
+        padding: 10px;
+        text-align: center;
+        max-width: 250px;
+    }
+
+    &__card-info {
+        margin-bottom: 10px;
+    }
+
+    &__card-title {
+        font-weight: 500;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+
+    &__card-img {
+        max-width: 150px;
+        max-height: 150px;
+        margin-bottom: 5px;
+        align-items: center;
+    }
+
+    &__card-price {
+        display: inline-block;
+        color: green;
+        margin-right: 5px;
+    }
+
+    &__add,
+    &__delete {
+        cursor: pointer;
+        background-color: transparent;
+        border: none;
+    }
+
+    &__add-svg,
+    &__delete-svg {
+        max-width: 35px;
+    }
+}
